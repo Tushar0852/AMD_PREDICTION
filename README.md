@@ -38,5 +38,20 @@ Evaluated using:
 - Confusion Matrix
 - Precision, Recall, F1-score (via Classification Report)
 
+## Research Paper
+
+You can read the full research paper related to this project here:
+
+ [Click to View Paper](https://www.overleaf.com/read/jngmjcdvswkr#c29193)
+
+
+
+## Author
+
+**Tushar Jaine**  
+tusharjain123.97@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tushar-jain-296296296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 
 
