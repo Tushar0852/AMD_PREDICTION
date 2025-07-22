@@ -1,15 +1,13 @@
-# 🧠 AMD Prediction Using Retinal Fundus Images
+# AMD Prediction Using Retinal Fundus Images
 
 This project uses deep learning to predict **Age-related Macular Degeneration (AMD)** from retinal fundus images. A Convolutional Neural Network (CNN) is trained on a binary classification task to distinguish between AMD-affected and normal eyes.
 
----
-
-## 📁 Project Structure
 
 
----
+## Project Structure
 
-## 📊 Dataset
+
+## Dataset
 
 - Total Images: 1,556
   - AMD: 778 images
@@ -20,9 +18,8 @@ This project uses deep learning to predict **Age-related Macular Degeneration (A
   - Validation: 10%
   - Test: 10%
 
----
 
-## 🧠 Model Architecture
+## Model Architecture
 
 Custom CNN with:
 - Convolutional layers + ReLU
@@ -32,20 +29,14 @@ Custom CNN with:
 - Dropout to reduce overfitting
 - EarlyStopping to halt on convergence
 
----
 
-## 📈 Performance Metrics
+
+## Performance Metrics
 
 Evaluated using:
 - Accuracy
 - Confusion Matrix
 - Precision, Recall, F1-score (via Classification Report)
 
----
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/AMD_PREDICTION.git
-   cd AMD_PREDICTION
